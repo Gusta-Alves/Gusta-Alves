@@ -1,16 +1,37 @@
-### Hi there 👋
+## Gustavo dos Santos Alves
 
-<!--
-**Gusta-Alves/Gusta-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! Wellcome to my profile! 🇺🇸
 
-Here are some ideas to get you started:
+- 🖥️ *Front end developer* in [Universidade Paulista - UNIP](https://www.unip.br/)
+- 📝 Learning *Web Development*
+- 🐱 24 years
+- 👾 Graduated in Computer Science for Universidade Paulista**
+- 🎮 Games / 🎶 Music / 🐻 Animes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá! Bem vindo ao meu perfil! 🇧🇷
+
+- 🖥️ *Desenvolvedor Front-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
+- 📝 Aprendendo *Desenvolvimento Web*
+- 🐱 24 anos
+- 👾 Formado em Ciência da Computação pela Universidade Paulista**
+- 🎮 Games / 🎶 Músicas / 🐻 Animes
+
+<div>
+  <a href="https://github.com/Gusta-Alves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gusta-Alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+ # Competencias / Skills
+- Angular
+- TypeScript
+- JavaScript
+- SCSS
+- NODE.js
+- C#
+  
+ <hr>
+  
+<div>
+  <a href="https://www.linkedin.com/in/gustavo-alves-a0049711a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"          target="_blank">
+  </a> 
+</div
